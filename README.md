@@ -1,28 +1,28 @@
 # pagina-1
-## :boom: estudante Joice Pacheco Braz 
+##💥:boom: estudante Joice Pacheco Braz 💥 
 ### ? Primeira pagina em HTML e CSS !
 
 > Hobbies
-> Desenhar 
+> Desenhar 🎨
 
-> Ouvir musica
+> Ouvir musica 🎶
 
-> Andar a cavalo
+> Andar a cavalo 🏇
 
-> Cozinhar
+> Cozinhar 😋 
 
 > Assistir filmes 
-
+🎬
 # Áreas afins 
-> Artes
+> Artes 🎨 
 
-> Ciências
+> Ciências 🌏
 
-> Educaçâo Física
+> Educaçâo Física 🏃
 
-> Lingua portuguêsa
+> Lingua portuguêsa 📚
 
-> Biologia
+> Biologia 🌱
 
-> 
+ 
  
